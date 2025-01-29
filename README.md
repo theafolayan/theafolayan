@@ -17,7 +17,7 @@ Throughout my professional journey as an Engineer, I have had the opportunity to
 
 I am always eager to connect with like-minded professionals and explore new opportunities for growth, collaboration, and learning. If you're interested in discussing Mobile Engineering, Mental Health or Technical Writing, or potential collaboration, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/theafolayan) or email at oluwaseun[@]mytherapist.ng.
 
-Let's make a difference together! 💡
+
 
 <!--
 **theafolayan/theafolayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
