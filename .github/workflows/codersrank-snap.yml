@@ -1,0 +1,36 @@
+name: Snapshot CodersRank
+
+on:
+  schedule:
+    - cron: "19 3 * * *"  # daily 03:19 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - tools/**
+
+jobs:
+  snap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push images back
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm i puppeteer
+
+      - name: Snapshot CodersRank
+        env:
+          CODERSRANK_URL: "https://profile.codersrank.io/user/theafolayan/"
+        run: node tools/snap-codersrank.js
+
+      - name: Commit images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/codersrank-*.png || true
+          git commit -m "chore: snapshot CodersRank" || echo "No changes"
+          git push
