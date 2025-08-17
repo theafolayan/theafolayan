@@ -1,6 +1,8 @@
 ### Hey there 👋
 
 ![theafolayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theafolayan&theme=vue-dark&hide_border=false)
+[![Scores & Badges](codersrank.png)](https://profile.codersrank.io/user/theafolayan/)
+
 
 As an Fullstack Engineer, I have dedicated my career to helping Innovative Startups provide value for users with thoughtfully engineered products. With a strong background in Software Engineering, I specialize in React Native mobile development both targeting Android and iOS operating systems. 
 
@@ -11,7 +13,7 @@ Throughout my professional journey as an Engineer, I have had the opportunity to
 - 💪 Daily improving my DS and Algo skills 
 - 😄 Pronouns: On a regular day, I go by He/Him, on days I need to deliver for my team, I go by Lord/Saviour ...
 - 💬 Open to talk about Technical Writing, Javascript, Laravel, PUBG or Mental Health.
-- 🎵 Enjoys Listening to Juice Wrld / Nasty C
+- 🎵 Enjoys Listening to Juice Wrld / Nasty C_
 
 I am always eager to connect with like-minded professionals and explore new opportunities for growth, collaboration, and learning. If you're interested in discussing Mobile Engineering, Mental Health or Technical Writing, or potential collaboration, feel free to reach out to me via [LinkedIn](https://linkedin.com/in/theafolayan) or email at oluwaseun[@]mytherapist.ng.
 
