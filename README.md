@@ -1,8 +1,6 @@
 ### Hey there 👋
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=theafolayan&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theafolayan&hide=TeX&layout=compact&theme=synthwave)
+![theafolayan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theafolayan&theme=vue-dark&hide_border=false)
 
 As an Fullstack Engineer, I have dedicated my career to helping Innovative Startups provide value for users with thoughtfully engineered products. With a strong background in Software Engineering, I specialize in React Native mobile development both targeting Android and iOS operating systems. 
 
